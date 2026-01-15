@@ -1,0 +1,1 @@
+A Pomodoro app is a digital timer tool that helps you use the Pomodoro Technique, breaking work into focused 25-minute intervals (called "pomodoros") separated by short breaks, improving concentration, reducing burnout, and managing tasks by using timers, task lists, and progress tracking to boost productivity. 
